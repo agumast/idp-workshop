@@ -46,6 +46,6 @@ spec:
     - spotify
   providesApis:
     - petstore
- dependsOn:
-   - component:default/agumast-service
+  dependsOn:
+    - component:default/agumast-service
 #  system: yournamehere-system
